@@ -1,0 +1,7 @@
+## Interface: 90001
+## Title: PinShare
+## Notes: Improve the new Shadowlands map pins
+## Author: Fabiceps-Illidan
+## Version: 1.0
+
+PinShare.lua
