@@ -3,7 +3,7 @@
 PinShare is a small World of Warcraft addon to improve the new Shadowlands map pins.
 
 It has two simple features:
-* Auto share your pins with party/raid members
+* Auto share your pins with party/raid members (it will set the waypoint without the need to click anything)
 * Auto track new pins
 
 ## Install
