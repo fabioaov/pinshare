@@ -1,4 +1,4 @@
-## Interface: 90001
+## Interface: 90002
 ## Title: PinShare
 ## Notes: Improve the new Shadowlands map pins
 ## Author: Fabiceps-Illidan
